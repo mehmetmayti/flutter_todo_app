@@ -35,7 +35,7 @@ class TodoAddPage extends StatelessWidget {
               autofocus: true,
               controller: _subTitle,
               decoration: InputDecoration(
-                hintText: "Todo Açıklama",
+                hintText: "Todo Açıklama Girin",
               ),
             ),
             SizedBox(
